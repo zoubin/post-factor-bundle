@@ -1,8 +1,6 @@
 # post-factor-bundle
 Add features to make factor-bundle more friendly.
 
-[gulp-watchify-factor-bundle](https://github.com/zoubin/gulp-watchify-factor-bundle) is based on this package.
-
 ## Example
 
 ```javascript
@@ -87,3 +85,4 @@ and elements are explained in [factor-bundle](https://github.com/substack/factor
 
 `outputStreams` is `Array`, containing all output streams except the common stream.
 
+## [Changelog](changelog.md)
