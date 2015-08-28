@@ -1,6 +1,6 @@
 {
   "name": "post-factor-bundle",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add features to make factor-bundle more friendly",
   "main": "lib/factor.js",
   "scripts": {
