@@ -80,4 +80,10 @@ Type: `Function`
 
 Transform to replace `browser-pack`.
 
+## b.on('factor.pipelines', function (files, pipelines, outputStreams) {})
+
+`files` and `pipelines` are both `Array`,
+and elements are explained in [factor-bundle](https://github.com/substack/factor-bundle#bonfactorpipeline-function-file-pipeline-)
+
+`outputStreams` is `Array`, containing all output streams except the common stream.
 
